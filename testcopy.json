@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2022.44">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #7c0010; -webkit-text-stroke: #7c0010}
+    span.s1 {font-kerning: none; color: #000000; background-color: #fffffe; -webkit-text-stroke: 0px #000000}
+    span.s2 {font-kerning: none; background-color: #fffffe}
+    span.s3 {font-kerning: none; color: #0b2981; background-color: #fffffe; -webkit-text-stroke: 0px #0b2981}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{</span><span class="s2">"Guid"</span><span class="s1">:</span><span class="s3">"deadd25c-8b8b-4e04-b832-1fde830a32a9"</span><span class="s1">,</span><span class="s2">"DriverId"</span><span class="s1">:</span><span class="s3">"3767"</span><span class="s1">,</span><span class="s2">"OrgName"</span><span class="s1">:</span><span class="s3">"OFE"</span><span class="s1">,</span><span class="s2">"Reset10hrtime"</span><span class="s1">:</span><span class="s3">"2021-03-27 10:08:43"</span><span class="s1">,</span><span class="s2">"Start14hrtime"</span><span class="s1">:</span><span class="s3">"2021-03-27 10:08:43"</span><span class="s1">,</span><span class="s2">"Reset2hrtime"</span><span class="s1">:</span><span class="s3">""</span><span class="s1">,</span><span class="s2">"Reset3hrtime"</span><span class="s1">:</span><span class="s3">""</span><span class="s1">,</span><span class="s2">"Reset7hrtime"</span><span class="s1">:</span><span class="s3">""</span><span class="s1">,</span><span class="s2">"Reset8hrtime"</span><span class="s1">:</span><span class="s3">""</span><span class="s1">,</span><span class="s2">"Flag10hr"</span><span class="s1">:</span><span class="s3"><b>true</b></span><span class="s1">,</span><span class="s2">"Flag14hr"</span><span class="s1">:</span><span class="s3"><b>true</b></span><span class="s1">,</span><span class="s2">"Flag2hr"</span><span class="s1">:</span><span class="s3"><b>false</b></span><span class="s1">,</span><span class="s2">"Flag3hr"</span><span class="s1">:</span><span class="s3"><b>false</b></span><span class="s1">,</span><span class="s2">"Flag7hr"</span><span class="s1">:</span><span class="s3"><b>false</b></span><span class="s1">,</span><span class="s2">"Flag8hr"</span><span class="s1">:</span><span class="s3"><b>false</b></span><span class="s1">}<span class="Apple-converted-space"> </span></span></p>
+</body>
+</html>
